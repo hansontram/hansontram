@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hanson</h1>
-<h3 align="center">A passionate full-stack developer from Arizona.</h3>
+<h1 align="center">Hi 👋, I'm Hanson.</h1>
+<h3 align="center">A passionate full-stack developer based out of Phoenix, Arizona.</h3>
+
+- 👨‍💻 All of my projects are available at [...](...)
 
 - 📫 How to reach me **Hanson.Tram@gmail.com**
 
