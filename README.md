@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack developer @ 100Devs. <br>I'm a creative, passionate, and detail-oriented software engineer with a deep interest in accessible, <br>inclusive products and digital experiences. Feel free to get in touch!<br><br>📫  Hanson.Tram@Gmail.com
+Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack developer @ 100Devs. <br>I'm a creative, passionate, and detail-oriented software engineer with a deep interest <br>in accessible,inclusive products and digital experiences. Feel free to get in touch!<br><br>📫  Hanson.Tram@Gmail.com
 
 
 ## 🌐 Socials:
