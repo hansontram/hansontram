@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏼, I'm Hanson. <br>A passionate full-stack developer based in Phoenix, AZ. <br>Creative, detail-oriented, software engineer with a deep interest in accessible, <br>inclusive products and digital experiences. Feel free to get in touch!<br><br>📫  Hanson.Tram@Gmail.com
+Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A passionate full-stack developer based in Phoenix, AZ. <br>Creative, detail-oriented, software engineer with a deep interest in accessible, <br>inclusive products and digital experiences. Feel free to get in touch!<br><br>📫  Hanson.Tram@Gmail.com
 
 
 ## 🌐 Socials:
