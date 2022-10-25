@@ -1,8 +1,3 @@
-![Header](https://user-images.githubusercontent.com/97640502/197849887-86f4d573-9719-4c10-8791-b8db42a446e5.png)
-
-
-
-
 # 💫 About Me:
 Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack developer @ 100Devs. <br>I'm a creative, passionate, and detail-oriented software engineer with a deep interest <br>in accessible, inclusive products and digital experiences. Feel free to get in touch!<br><br>📫  Hanson.Tram@Gmail.com
 
