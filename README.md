@@ -1,3 +1,6 @@
+![github-header-image](https://user-images.githubusercontent.com/97640502/197849603-3c00d0c0-db8d-4cdf-a648-e3dc1db7ae5c.png)
+
+
 # 💫 About Me:
 Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack developer @ 100Devs. <br>I'm a creative, passionate, and detail-oriented software engineer with a deep interest <br>in accessible, inclusive products and digital experiences. Feel free to get in touch!<br><br>📫  Hanson.Tram@Gmail.com
 
