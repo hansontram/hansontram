@@ -1,6 +1,10 @@
 ![se banner ](https://user-images.githubusercontent.com/97640502/216793381-3414c4b4-4f62-4c68-b2fb-c954dc18838e.jpeg)
 
   
+# About Me: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack developer @ 100Devs. <br>I'm a creative, passionate, and detail-oriented software engineer with a deep interest <br>in accessible, inclusive products and digital experiences. Feel free to get in touch!<br><br>📫  Hanson.Tram@Gmail.com
+
+
 # 💫 About Me:
 Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack developer @ 100Devs. <br>I'm a creative, passionate, and detail-oriented software engineer with a deep interest <br>in accessible, inclusive products and digital experiences. Feel free to get in touch!<br><br>📫  Hanson.Tram@Gmail.com
 
