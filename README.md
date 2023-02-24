@@ -19,8 +19,7 @@ Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack deve
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
