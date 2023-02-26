@@ -121,10 +121,9 @@ See [my website](https://hansontram.netlify.app/) for more information!
 
 <hr>
 
-### Blog Posts
+<h1 align="center">Technologies</h1>
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Coding Challenges will 10X your Programming Abilities](https://jonathanmani.hashnode.dev/why-coding-challenges-will-10x-your-programming-abilities)
-- [How to use JS to convert a number to Binary](https://jonathanmani.hashnode.dev/how-to-use-js-to-convert-a-number-to-binary)
-- [How One Sentence Inspired me to Code More Meaningfully](https://jonathanmani.hashnode.dev/how-one-sentence-inspired-me-to-code-more-meaningfully)
+- [An update on my journey: 1 year later...](https://medium.com/@hansontram/an-update-on-my-journey-1-year-later-cc8e4bd95a73)
+- [To New Beginnings...](https://medium.com/@hansontram/to-new-beginnings-c7905adc9460)
 <!-- BLOG-POST-LIST:END -->
