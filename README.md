@@ -3,7 +3,7 @@
 
 ## About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansontram) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hansontram) [![Mail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hanson.Tram@Gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansontram) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HansonTram) [![Mail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hanson.Tram@Gmail.com)
 
 Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack developer @ 100Devs. <br>I'm a creative, passionate, and detail-oriented software engineer with a deep interest <br>in accessible, inclusive products and digital experiences. Feel free to get in touch!<br><br>
 
@@ -27,10 +27,11 @@ Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack deve
 ## Featured Projects
 
 All my projects are available on Github but here are a few that are worth taking a look at
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97640502/221429198-d21e6efd-1716-44fd-a464-6097dc9f0da5.gif)
 
 <div align="left">
   <!--  Iron Maps   -->
-  <a href="https://github.com/hansontram/iron-maps"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=InstaPrep&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="InstaPrep"></a>
+  <a href="https://github.com/hansontram/iron-maps">![ezgif com-gif-maker](https://user-images.githubusercontent.com/97640502/221429198-d21e6efd-1716-44fd-a464-6097dc9f0da5.gif)</a>
   <!--  SupaCook Recipes   -->
   <a href="https://github.com/hansontram/supacook-recipes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=Pomodoro-Task-Tracker&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Pomodoro"></a>
   <!--  Binary Upload Booms   -->
