@@ -121,7 +121,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
 
 <hr>
 
-<h1 align="center">Technologies</h1>
+<h1 align="center">Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
 - [An update on my journey: 1 year later](https://medium.com/@hansontram/an-update-on-my-journey-1-year-later-cc8e4bd95a73)
