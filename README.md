@@ -39,7 +39,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
       </a>
       </p>
-      <p> Iron Maps is a gym finder for enthusiasts and strength athletes. We make it easy to find a gym with our curated directory of gyms. Users will be able to upload facilities to share with the community, and to give and receive feedback on their post.</p>
+      <p> Iron Maps is a gym finder for enthusiasts and strength athletes. We make it easy to find a gym with our curated directory of gyms.</p>
     </td>
     <td width="50%" valign="top">
     <h3 align="center">SupaCook Recipes</h3>
