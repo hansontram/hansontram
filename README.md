@@ -1,5 +1,4 @@
-<img src=".img/banner.jpeg"
-" align="center" width="100%">
+<img src="./banner.png" width="100%"
 
 <p align="center">
   <a href="https://hansontram.netlify.app/" target="_blank">
