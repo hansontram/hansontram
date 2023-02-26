@@ -1,17 +1,14 @@
 <img src= url('https://user-images.githubusercontent.com/97640502/216793381-3414c4b4-4f62-4c68-b2fb-c954dc18838e.jpeg') align="center" width="100%">
 
 <p align="center">
-  <a href="https://laurasims.dev" target="_blank">
+  <a href="https://hansontram.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/laurasimsdev/" target="_blank">
+  <a href=https://linkedin.com/in/hansontram target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/LauraSimsDev" target="_blank">
+  <a href="https://twitter.com/HansonTram" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/laura-sims" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
@@ -19,7 +16,7 @@
 I'm a passionate Software Engineer with a proven track record of creating and implementing successful full stack web applications. I love software development's creative and technical aspects and am passionate about all things tech-related! As a problem solver at heart, I love the perpetual learning involved with software engineering and enjoy the dynamic nature of development.
 </p>
 
-See [my website](https://laurasims.dev) for more information!
+See [my website](https://hansontram.netlify.app/) for more information!
 
 <h1 align="center">Recent Projects</h1>
 <table bordercolor="#66b2b2">
