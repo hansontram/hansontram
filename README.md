@@ -15,7 +15,7 @@
 </p>
 
 <p>
-I'm a passionate Software Engineer with a proven track record of creating and implementing successful full stack web applications. I love software development's creative and technical aspects and am passionate about all things tech-related! As a problem solver at heart, I love the perpetual learning involved with software engineering and enjoy the dynamic nature of development.
+I'm a passionate Software Engineer with a proven track record of creating and implementing successful full stack web applications. I love software development's creative and technical aspects and am passionate about all things tech-related! As a problem solver at heart, I love the perpetual learning involved with software engineering and enjoy the dynamic nature of development. Outside the world of tech, I enjoy weightlifting, snowboarding, and cooking. Lets connect!
 </p>
 
 See [my website](https://hansontram.netlify.app/) for more information!
@@ -60,7 +60,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
     <p>A recipe generator app. This web app offers users the ability input a main ingredient and generates recipe ideas from the Edamam Api.</p>
   </td>
   </tr>
-  <tr>
+<!--   <tr>
   <td width="50%" valign="top">
       <h3 align="center">TBD</h3>
         <br />
@@ -78,10 +78,10 @@ See [my website](https://hansontram.netlify.app/) for more information!
   </a>
     </p>
     <p>A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
-  </td>
+  </td> -->
 
 
-  <td width="50%" valign="top">
+<!--   <td width="50%" valign="top">
       <h3 align="center">TBD</h3>
         <br />
       <a target="_blank" href="https://github.com/laurasimsdev/zen-notes">
@@ -99,7 +99,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
       </p>
     <p>A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
   </td>
-  </tr>
+  </tr> -->
 
 </table>
 
