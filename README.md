@@ -28,7 +28,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
       <h3 align="center">Iron Maps</h3>
         <br />
         <a target="_blank" href="https://github.com/hansontram/iron-maps">
-            <img src="img/iron-maps.gif" width="100%" alt="iron-maps app"/>
+            <img src="img/iron.gif" width="100%" alt="iron-maps app"/>
         </a>
         <br />
       <p align="center">   
@@ -44,25 +44,25 @@ See [my website](https://hansontram.netlify.app/) for more information!
     <td width="50%" valign="top">
     <h3 align="center">SupaCook Recipes</h3>
       <br />
-      <a target="_blank" href="https://github.com/laurasimsdev/virtual-book-club">
-        <img src="img/supacook.gif" width="100%" alt="virtual book club app"/>
+      <a target="_blank" href="https://github.com/hansontram/supacook-recipes">
+        <img src="img/supacook.gif" width="100%" alt="supacook"/>
       </a>
       <br />
     <p align="center">
           
-  <a href="https://github.com/laurasimsdev/virtual-book-club" target="_blank">
+  <a href="https://github.com/hansontram/supacook-recipes/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://virtual-book-club-app.herokuapp.com" target="_blank">
+  <a href="https://supacook.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
     </p>
-    <p>A social app to promote reading. This web app offers users the ability to make public and private book reviews, and to read public reviews on the site.</p>
+    <p>A recipe generator app. This web app offers users the ability input a main ingredient and generates recipe ideas from the Edamam Api.</p>
   </td>
   </tr>
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Helios Wellness</h3>
+      <h3 align="center">TBD</h3>
         <br />
         <a target="_blank" href="https://github.com/laurasimsdev/helios-wellness">
             <img src="img/helios.gif" width="100%" alt="virtual book club app"/>
@@ -82,7 +82,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
 
 
   <td width="50%" valign="top">
-      <h3 align="center">Zen Notes</h3>
+      <h3 align="center">TBD</h3>
         <br />
       <a target="_blank" href="https://github.com/laurasimsdev/zen-notes">
             <img src="img/zennotes.gif" width="100%"  alt="zen notes"/>
