@@ -1,53 +1,141 @@
 ![se banner ](https://user-images.githubusercontent.com/97640502/216793381-3414c4b4-4f62-4c68-b2fb-c954dc18838e.jpeg)
 
 
-## About Me
+<img src=('https://user-images.githubusercontent.com/97640502/216793381-3414c4b4-4f62-4c68-b2fb-c954dc18838e.jpeg') width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hansontram) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HansonTram) [![Mail Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hanson.Tram@Gmail.com)
+<p align="center">
+  <a href="https://laurasims.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/laurasimsdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/LauraSimsDev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/laura-sims" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+</p>
 
-Hi, I'm Hanson 👋🏽‍👨🏻‍💻 <br>A community-taught full-stack developer @ 100Devs. <br>I'm a creative, passionate, and detail-oriented software engineer with a deep interest <br>in accessible, inclusive products and digital experiences. Feel free to get in touch!<br><br>
+<p>
+I'm a passionate Software Engineer with a proven track record of creating and implementing successful full stack web applications. I love software development's creative and technical aspects and am passionate about all things tech-related! As a problem solver at heart, I love the perpetual learning involved with software engineering and enjoy the dynamic nature of development.
+</p>
+
+See [my website](https://laurasims.dev) for more information!
+
+<h1 align="center">Recent Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ArtCircle</h3>
+        <br />
+        <a target="_blank" href="https://github.com/laurasimsdev/art-circle">
+            <img src="img/artcircle.gif" width="100%" alt="ArtCircle app"/>
+        </a>
+        <br />
+      <p align="center">   
+      <a href="https://github.com/laurasimsdev/art-circle" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://art-circle-community.herokuapp.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+      </a>
+      </p>
+      <p> A social media application providing an online art community for artists and creatives to connect, socialize, to find inspiration, and to inspire others. Users will be able to upload artwork to share with the community, and to give and receive feedback on the artwork.</p>
+    </td>
+    <td width="50%" valign="top">
+    <h3 align="center">Virtual Book Club</h3>
+      <br />
+      <a target="_blank" href="https://github.com/laurasimsdev/virtual-book-club">
+        <img src="img/virtualbookclub.gif" width="100%" alt="virtual book club app"/>
+      </a>
+      <br />
+    <p align="center">
+          
+  <a href="https://github.com/laurasimsdev/virtual-book-club" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://virtual-book-club-app.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+  </a>
+    </p>
+    <p>A social app to promote reading. This web app offers users the ability to make public and private book reviews, and to read public reviews on the site.</p>
+  </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Helios Wellness</h3>
+        <br />
+        <a target="_blank" href="https://github.com/laurasimsdev/helios-wellness">
+            <img src="img/helios.gif" width="100%" alt="virtual book club app"/>
+        </a>
+        <br />
+      <p align="center">
+          
+  <a href="https://github.com/laurasimsdev/helios-wellness" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://helios-wellness.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+  </a>
+    </p>
+    <p>A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
+  </td>
 
 
-## Skills
+  <td width="50%" valign="top">
+      <h3 align="center">Zen Notes</h3>
+        <br />
+      <a target="_blank" href="https://github.com/laurasimsdev/zen-notes">
+            <img src="img/zennotes.gif" width="100%"  alt="zen notes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/laurasimsdev/zen-notes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://zen-notes.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+  </a>
+      </p>
+    <p>A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
+  </td>
+  </tr>
 
-### Front End Development
+</table>
 
-![HTML](https://img.shields.io/badge/html-%23FF6500.svg?style=for-the-badge&logo=HTML5&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%2380006B.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+<h1 align="center">Technologies</h1>
 
-### Back End Development
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23008015.svg?style=for-the-badge&logo=node.js&logoColor=%2361DAFB)
-
-### CI/CD & Hosting & Tools
-
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%2380006B.svg?style=for-the-badge&logo=heroku&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%23228B22.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<hr>
-
-## Featured Projects
-
-All my projects are available on Github but here are a few that are worth taking a look at
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/97640502/221429198-d21e6efd-1716-44fd-a464-6097dc9f0da5.gif)
-
-<div align="left">
-  <!--  Iron Maps   -->
-  <a href="https://github.com/hansontram/iron-maps">![ezgif com-gif-maker](https://user-images.githubusercontent.com/97640502/221429198-d21e6efd-1716-44fd-a464-6097dc9f0da5.gif)</a>
-  <!--  SupaCook Recipes   -->
-  <a href="https://github.com/hansontram/supacook-recipes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=Pomodoro-Task-Tracker&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Pomodoro"></a>
-  <!--  Binary Upload Booms   -->
-  <a href="https://github.com/jonathanmani/Binary-Upload-Booms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=Binary-Upload-Booms&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Dictionary"></a>
-  <!--  My Pocket Dictionary   -->
-  <a href="https://github.com/jonathanmani/My-Pocket-Dictionary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanmani&repo=My-Pocket-Dictionary&theme=vision-friendly-dark&bg_color=1F222E&title_color=F0BC47&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Dictionary"></a>
-</div>
-
-
-
-### Programming Humor  <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+</p>
 
 ---
 
+<h1 align="center">Connect</h1>
 
+<p align="center">
+  <a href="https://laurasims.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/laurasimsdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/LauraSimsDev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/laura-sims" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+</p>
