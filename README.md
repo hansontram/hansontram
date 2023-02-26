@@ -25,10 +25,10 @@ See [my website](https://hansontram.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ArtCircle</h3>
+      <h3 align="center">Iron Maps</h3>
         <br />
-        <a target="_blank" href="https://github.com/laurasimsdev/art-circle">
-            <img src="img/artcircle.gif" width="100%" alt="ArtCircle app"/>
+        <a target="_blank" href="https://github.com/hansontram/iron-maps">
+            <img src="img/iron-maps.gif" width="100%" alt="iron-maps app"/>
         </a>
         <br />
       <p align="center">   
