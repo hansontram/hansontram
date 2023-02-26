@@ -30,14 +30,14 @@ See [my website](https://hansontram.netlify.app/) for more information!
         </a>
         <br />
       <p align="center">   
-      <a href="https://github.com/laurasimsdev/art-circle" target="_blank">
+      <a href="https://github.com/hansontram/iron-maps" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>  
-      <a href="https://art-circle-community.herokuapp.com" target="_blank">
+      <a href="https://ironmaps.up.railway.app/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
       </a>
       </p>
-      <p> A social media application providing an online art community for artists and creatives to connect, socialize, to find inspiration, and to inspire others. Users will be able to upload artwork to share with the community, and to give and receive feedback on the artwork.</p>
+      <p> Iron Maps is a gym finder for enthusiasts and strength athletes. We make it easy to find a gym with our curated directory of gyms. Users will be able to upload facilities to share with the community, and to give and receive feedback on their post.</p>
     </td>
     <td width="50%" valign="top">
     <h3 align="center">Virtual Book Club</h3>
@@ -113,7 +113,6 @@ See [my website](https://hansontram.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=cbb148&style=plastic&logo=tailwind"/>
 </p>
 
 ---
