@@ -42,10 +42,10 @@ See [my website](https://hansontram.netlify.app/) for more information!
       <p> Iron Maps is a gym finder for enthusiasts and strength athletes. We make it easy to find a gym with our curated directory of gyms. Users will be able to upload facilities to share with the community, and to give and receive feedback on their post.</p>
     </td>
     <td width="50%" valign="top">
-    <h3 align="center">Virtual Book Club</h3>
+    <h3 align="center">SupaCook Recipes</h3>
       <br />
       <a target="_blank" href="https://github.com/laurasimsdev/virtual-book-club">
-        <img src="img/virtualbookclub.gif" width="100%" alt="virtual book club app"/>
+        <img src="img/supacook.gif" width="100%" alt="virtual book club app"/>
       </a>
       <br />
     <p align="center">
