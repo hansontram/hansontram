@@ -1,4 +1,4 @@
-<img src=".img/se banner .jpeg"
+<img src=".img/banner.jpeg"
 " align="center" width="100%">
 
 <p align="center">
