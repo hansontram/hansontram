@@ -1,8 +1,5 @@
-
-![banner](https://user-images.githubusercontent.com/97640502/221432500-898866ac-3953-4c50-b13e-07e602da5f40.jpeg)
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97640502/221432500-898866ac-3953-4c50-b13e-07e602da5f40.jpeg" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/97640502/221432500-898866ac-3953-4c50-b13e-07e602da5f40.jpeg" alt="banner"/>
 </p>
 
 <p align="center">
