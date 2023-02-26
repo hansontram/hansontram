@@ -1,4 +1,5 @@
-<img src= url('https://user-images.githubusercontent.com/97640502/216793381-3414c4b4-4f62-4c68-b2fb-c954dc18838e.jpeg') align="center" width="100%">
+<img src=".img/se banner .jpeg"
+" align="center" width="100%">
 
 <p align="center">
   <a href="https://hansontram.netlify.app/" target="_blank">
