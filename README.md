@@ -113,7 +113,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=cbb148&style=plastic&logo=tailwind"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=cbb148&style=plastic&logo=tailwind"/>
 </p>
 
 ---
