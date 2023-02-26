@@ -1,5 +1,9 @@
-<img src=('https://user-images.githubusercontent.com/97640502/221432369-fc29488f-d4bd-494d-86c0-f3eda92fc3db.jpeg') >
 
+![banner](https://user-images.githubusercontent.com/97640502/221432500-898866ac-3953-4c50-b13e-07e602da5f40.jpeg)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97640502/221432500-898866ac-3953-4c50-b13e-07e602da5f40.jpeg" alt="Sublime's custom image"/>
+</p>
 
 <p align="center">
   <a href="https://hansontram.netlify.app/" target="_blank">
