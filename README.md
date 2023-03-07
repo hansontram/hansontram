@@ -124,6 +124,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
 <h1 align="center">Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
-- [An update on my journey: 1 year later](https://medium.com/@hansontram/an-update-on-my-journey-1-year-later-cc8e4bd95a73)
+- [Learning how to learn](https://medium.com/@hansontram/learning-how-to-learn-859910651a50)
+- [An update on my journey](https://medium.com/@hansontram/an-update-on-my-journey-1-year-later-cc8e4bd95a73)
 - [To New Beginnings...](https://medium.com/@hansontram/to-new-beginnings-c7905adc9460)
 <!-- BLOG-POST-LIST:END -->
