@@ -60,25 +60,26 @@ See [my website](https://hansontram.netlify.app/) for more information!
     <p>A recipe generator app. This web app offers users the ability input a main ingredient and generates recipe ideas from the Edamam Api.</p>
   </td>
   </tr>
-<!--   <tr>
+  <tr>
   <td width="50%" valign="top">
       <h3 align="center">TBD</h3>
         <br />
-        <a target="_blank" href="https://github.com/laurasimsdev/helios-wellness">
-            <img src="img/helios.gif" width="100%" alt="virtual book club app"/>
+        <a target="_blank" href="https://github.com/hansontram/strength-buddy">
+            <img src="img/strength.gif" width="100%" alt="virtual book club app"/>
+
         </a>
         <br />
       <p align="center">
           
-  <a href="https://github.com/laurasimsdev/helios-wellness" target="_blank">
+  <a href="https://github.com/hansontram/strength-buddy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://helios-wellness.herokuapp.com" target="_blank">
+  <a href="https://github.com/hansontram/strength-buddy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
     </p>
-    <p>A wellness journal, built using MVC architecture, has authentication to enable each user to login and have a personalized experience. The user will be able to input their daily notes, mood, exercise, sleep duration, and water intake. User can monitor their progress overtime to find patterns and identify influential factors relating to motivation and state of mind.</p>
-  </td> -->
+    <p>A fullstack workout log where users can record their personal records in the gym. </p>
+  </td>
 
 
 <!--   <td width="50%" valign="top">
