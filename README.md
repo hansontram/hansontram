@@ -65,7 +65,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
       <h3 align="center">TBD</h3>
         <br />
         <a target="_blank" href="https://github.com/hansontram/strength-buddy">
-            <img src="img/strength.gif" width="100%" alt="virtual book club app"/>
+            <img src="img/strength.gif" width="100%" alt="strength"/>
 
         </a>
         <br />
