@@ -62,11 +62,10 @@ See [my website](https://hansontram.netlify.app/) for more information!
   </tr>
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">TBD</h3>
+      <h3 align="center">Strength Buddy</h3>
         <br />
         <a target="_blank" href="https://github.com/hansontram/strength-buddy">
             <img src="img/strength.gif" width="100%" alt="strength"/>
-
         </a>
         <br />
       <p align="center">
