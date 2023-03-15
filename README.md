@@ -85,7 +85,7 @@ See [my website](https://hansontram.netlify.app/) for more information!
       <h3 align="center">Cosmo Society: NASA POD</h3>
         <br />
       <a target="_blank" href="https://github.com/hansontram/cosmo-nasa-react">
-            <img src="img/zennotes.gif" width="100%"  alt="zen notes"/>
+            <img src="img/nasa.gif" width="100%"  alt="zen notes"/>
         </a>
         <br />
         <p align="center">
