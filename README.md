@@ -81,25 +81,25 @@ See [my website](https://hansontram.netlify.app/) for more information!
   </td>
 
 
-<!--   <td width="50%" valign="top">
-      <h3 align="center">TBD</h3>
+  <td width="50%" valign="top">
+      <h3 align="center">Cosmo Society: NASA POD</h3>
         <br />
-      <a target="_blank" href="https://github.com/laurasimsdev/zen-notes">
+      <a target="_blank" href="https://github.com/hansontram/cosmo-nasa-react">
             <img src="img/zennotes.gif" width="100%"  alt="zen notes"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/laurasimsdev/zen-notes" target="_blank">
+  <a href="https://github.com/hansontram/cosmo-nasa-react" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://zen-notes.herokuapp.com" target="_blank">
+  <a href="https://southcoastspace.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-    <p>A streamlined productivity application allowing users to quickly add, update, and delete their notes.</p>
+    <p>South Coast Space Club's web application that allows users to select a certain date to display a picture or video loaded from NASA's very own API.</p>
   </td>
-  </tr> -->
+  </tr>
 
 </table>
 
