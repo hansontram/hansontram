@@ -42,7 +42,7 @@ Check out [my website](https://hansontram.netlify.app/) for more information!
       <p> A fullstack gym finder for enthusiasts and strength athletes. We make it easy to find a specialized training facility with our curated directory of gyms.</p>
     </td>
     <td width="50%" valign="top">
-    <h3 align="center">SupaCook Recipes</h3>
+    <h3 align="center">Team Forward</h3>
       <br />
       <a target="_blank" href="https://github.com/hansontram/team-forward">
         <img src="img/teamForward.gif" width="100%" alt="teamForward"/>
@@ -57,7 +57,7 @@ Check out [my website](https://hansontram.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
     </p>
-    <p>A fullstack social platform designed to connect local professionals through wellness activities, fostering meaningful relationships and personal growth.</p>
+    <p>A fullstack social platform designed to connect local professionals through wellness activities, fostering meaningful relationships and personal growth. Created using agile and scrum methodologies in collaboration with a team of developers.</p>
   </td>
   </tr>
   <tr>
