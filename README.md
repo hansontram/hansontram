@@ -39,25 +39,25 @@ Check out [my website](https://hansontram.netlify.app/) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
       </a>
       </p>
-      <p> Iron Maps is a gym finder for enthusiasts and strength athletes. We make it easy to find a specialized training facility with our curated directory of gyms.</p>
+      <p> A fullstack gym finder for enthusiasts and strength athletes. We make it easy to find a specialized training facility with our curated directory of gyms.</p>
     </td>
     <td width="50%" valign="top">
     <h3 align="center">SupaCook Recipes</h3>
       <br />
-      <a target="_blank" href="https://github.com/hansontram/supacook-recipes">
-        <img src="img/supacook.gif" width="100%" alt="supacook"/>
+      <a target="_blank" href="https://github.com/hansontram/team-forward">
+        <img src="img/teamForward.gif" width="100%" alt="teamForward"/>
       </a>
       <br />
     <p align="center">
           
-  <a href="https://github.com/hansontram/supacook-recipes/" target="_blank">
+  <a href="https://github.com/hansontram/team-forward" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://supacook.netlify.app/" target="_blank">
+  <a href="https://zippy-kangaroo-408751.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
     </p>
-    <p>A recipe generator app. This web app offers users the ability input a main ingredient and generates recipe ideas from the Edamam Api.</p>
+    <p>A fullstack social platform designed to connect local professionals through wellness activities, fostering meaningful relationships and personal growth.</p>
   </td>
   </tr>
   <tr>
