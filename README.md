@@ -57,7 +57,7 @@ Check out [my website](https://hansontram.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
     </p>
-    <p>A fullstack social platform designed to connect local professionals through wellness activities, fostering meaningful relationships and personal growth. Created using agile and scrum methodologies in collaboration with a team of developers.</p>
+    <p>A fullstack social platform designed to connect local professionals through wellness activities, fostering meaningful relationships and personal growth.</p>
   </td>
   </tr>
   <tr>
