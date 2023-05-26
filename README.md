@@ -18,7 +18,8 @@
 I'm a community-taught Software Engineer with a proven track record of creating and implementing successful full stack web applications. I love software development's creative and technical aspects and am passionate about all things tech-related! As a problem solver at heart, I love the perpetual learning involved with software engineering and enjoy the dynamic nature of development. Outside the world of tech, you can catch me weightlifting, snowboarding, enjoying the outdoors, and cooking. Lets connect!
 </p>
 
-Check out [my website](https://hansontram.netlify.app/) for more information!
+Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://medium.com/@hansontram) for more information!
+
 
 <h1 align="center">Recent Projects</h1>
 <table bordercolor="#66b2b2">
