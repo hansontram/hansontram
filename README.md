@@ -83,22 +83,22 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
 
 
   <td width="50%" valign="top">
-      <h3 align="center">Cosmo Society: NASA POD</h3>
+      <h3 align="center">Predict-A-Buy</h3>
         <br />
-      <a target="_blank" href="https://github.com/hansontram/cosmo-nasa-react">
-            <img src="img/nasa.gif" width="100%"  alt="zen notes"/>
+      <a target="_blank" href="https://github.com/hansontram/predict-a-buy">
+            <img src="img/tcl-61.gif" width="100%"  alt="zen notes"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/hansontram/cosmo-nasa-react" target="_blank">
+  <a href="https://github.com/hansontram/predict-a-buy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://southcoastspace.netlify.app/" target="_blank">
+  <a href="https://tcl-61-smart-shopping-list.web.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-    <p>South Coast Space Club's web application that allows users to select a certain date to display a picture or video loaded from NASA's very own API.</p>
+    <p>An intuitive app that saves users time by predicting which items to buy next based on their shopping habits. Say goodbye to mundane shopping lists and hello to a shopping experience that's both delightful and sassy!</p>
   </td>
   </tr>
 
