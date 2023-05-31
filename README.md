@@ -86,7 +86,7 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
       <h3 align="center">Predict-A-Buy</h3>
         <br />
       <a target="_blank" href="https://github.com/hansontram/predict-a-buy">
-            <img src="img/tcl-61.gif" width="100%"  alt="zen notes"/>
+            <img src="img/shoplist.gif" width="100%"  alt="zen notes"/>
         </a>
         <br />
         <p align="center">
