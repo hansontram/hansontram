@@ -98,7 +98,7 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-    <p>An intuitive app that saves users time by predicting which items to buy next based on their shopping habits. Say goodbye to mundane shopping lists and hello to a shopping experience that's both delightful and sassy!</p>
+    <p>A smart shopping list application that dynamically estimates users next purchase. Say goodbye to mundane shopping lists and hello to a shopping experience that's both delightful and sassy!</p>
   </td>
   </tr>
 
