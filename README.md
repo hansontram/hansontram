@@ -125,6 +125,7 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
 <h1 align="center">Blogs</h1>
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing Collaboration with The Collab Lab](https://medium.com/@hansontram/embracing-collaboration-with-the-collab-lab-c6d7d7df8433)
 - [I Completed Chingu Voyage 43! 🚀](https://medium.com/@hansontram/i-completed-chingu-voyage-43-8695d1bbc9a)
 - [Learning how to learn](https://medium.com/@hansontram/learning-how-to-learn-859910651a50)
 - [An update on my journey](https://medium.com/@hansontram/an-update-on-my-journey-1-year-later-cc8e4bd95a73)
