@@ -66,7 +66,7 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
       <h3 align="center">Strength Buddy</h3>
         <br />
         <a target="_blank" href="https://github.com/hansontram/strength-buddy">
-            <img src="img/strength.gif" width="100%" alt="strength"/>
+            <img src="img/strength.gif" width="100%" alt="strength gif"/>
         </a>
         <br />
       <p align="center">
