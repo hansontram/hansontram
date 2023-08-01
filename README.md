@@ -15,11 +15,12 @@
 </p>
 
 <p>
-I'm a community-taught Software Engineer with a proven track record of creating and implementing successful full stack web applications. Currently interning for the Arizona Cardinals. I love software development's creative and technical aspects and am passionate about all things tech-related! New challenges and opportunities for growth drive my passion for coding. Outside the world of tech, you can catch me weightlifting, snowboarding, enjoying the outdoors, and cooking. Lets connect!
+I'm a community-taught Software Engineer with a proven track record of creating and implementing successful full stack web applications. I love software development's creative and technical aspects and am passionate about all things tech-related! New challenges and opportunities for growth drive my passion for coding. Outside the world of tech, you can catch me weightlifting, snowboarding, enjoying the outdoors, and cooking. Lets connect!
 </p>
 
-Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://medium.com/@hansontram) 
+Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://medium.com/@hansontram) for more!
 
+Currently interning for the Arizona Cardinals 🏈
 
 <h1 align="center">Recent Projects</h1>
 <table bordercolor="#66b2b2">
