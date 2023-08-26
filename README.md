@@ -20,7 +20,6 @@ I'm a community-taught Software Engineer with a proven track record of creating 
 
 Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://medium.com/@hansontram) 
 
-Currently interning as a Systems Developer for the Arizona Cardinals 🏈
 
 <h1 align="center">Recent Projects</h1>
 <table bordercolor="#66b2b2">
