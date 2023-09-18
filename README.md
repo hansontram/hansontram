@@ -125,6 +125,7 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
 <h1 align="center">Blogs</h1>
 
 
+- [My Summer as a SWE Intern for the Arizona Cardinals 🏈](https://medium.com/@hansontram/my-summer-as-a-software-engineering-intern-for-the-arizona-cardinals-f301f226ac6)
 - [Embracing Collaboration with The Collab Lab](https://medium.com/@hansontram/embracing-collaboration-with-the-collab-lab-c6d7d7df8433)
 - [I Completed Chingu Voyage 43! 🚀](https://medium.com/@hansontram/i-completed-chingu-voyage-43-8695d1bbc9a)
 - [Learning how to learn](https://medium.com/@hansontram/learning-how-to-learn-859910651a50)
