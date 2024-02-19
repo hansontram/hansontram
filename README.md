@@ -29,7 +29,7 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
       <h3 align="center">StrongMind Pizzeria</h3>
         <br />
         <a target="_blank" href="https://github.com/hansontram/sm-pizzeria">
-            <img src="img/strength.gif" width="100%" alt="strength gif"/>
+            <img src="img/smPizza.gif" width="100%" alt="strength gif"/>
         </a>
         <br />
       <p align="center">
@@ -64,23 +64,22 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">StrongMind Pizzeria</h3>
+      <h3 align="center">Iron Maps</h3>
         <br />
-        <a target="_blank" href="https://github.com/hansontram/sm-pizzeria">
-            <img src="img/strength.gif" width="100%" alt="strength gif"/>
+        <a target="_blank" href="https://github.com/hansontram/iron-maps">
+            <img src="img/iron.gif" width="100%" alt="iron-maps app"/>
         </a>
         <br />
-      <p align="center">
-          
-  <a href="https://github.com/hansontram/sm-pizzeria" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://strongmindpizza.netlify.app/pizzas" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
-    </p>
-    <p>A fullstack app where you can be the owner or chef of a pizzeria and customize your own pizza creations </p>
-  </td>
+      <p align="center">   
+      <a href="https://github.com/hansontram/iron-maps" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+      </a>  
+      <a href="https://ironmaps.up.railway.app/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic"/>
+      </a>
+      </p>
+      <p> A fullstack gym finder for enthusiasts and strength athletes. We make it easy to find a specialized training facility with our curated directory of gyms.</p>
+    </td>
 
 
   <td width="50%" valign="top">
