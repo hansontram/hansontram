@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97640502/221432500-898866ac-3953-4c50-b13e-07e602da5f40.jpeg" alt="banner"/>
 </p>
@@ -13,6 +14,10 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
+
+<br></br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&center=true&random=false&width=700&height=75&lines=Hello%2C+I'm+Hanson.;A+Fullstack+Developer.;A+Lifelong+Learner.;I'm+Always+Hungry." alt="Typing SVG" /></a></p>
 
 <p>
 I'm a community-taught Software Engineer with a proven track record of creating and implementing successful full stack web applications. I love software development's creative and technical aspects and am passionate about all things tech-related! New challenges and opportunities for growth drive my passion for coding. Outside the world of tech, you can catch me weightlifting, shooting hoops, enjoying the outdoors, and cooking. Lets connect!
