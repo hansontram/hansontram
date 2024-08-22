@@ -129,11 +129,11 @@ Check out my [portfolio](https://hansontram.netlify.app/) & [blog](https://mediu
 
 <h1 align="center">Blogs</h1>
 
-
+- [I Passed the AWS CCP Exam!📝](https://medium.com/@hansontram/passing-the-aws-cloud-practitioner-certification-with-free-resources-e02576a7a118)
+- [My Year Up Experience🌟](https://medium.com/@hansontram/my-year-up-experience-9a3ad7db7f2b)
 - [My Summer as a SWE Intern for the Arizona Cardinals 🏈](https://medium.com/@hansontram/my-summer-as-a-software-engineering-intern-for-the-arizona-cardinals-f301f226ac6)
 - [Embracing Collaboration with The Collab Lab](https://medium.com/@hansontram/embracing-collaboration-with-the-collab-lab-c6d7d7df8433)
 - [I Completed Chingu Voyage 43! 🚀](https://medium.com/@hansontram/i-completed-chingu-voyage-43-8695d1bbc9a)
-- [Learning how to learn](https://medium.com/@hansontram/learning-how-to-learn-859910651a50)
 - [An update on my journey](https://medium.com/@hansontram/an-update-on-my-journey-1-year-later-cc8e4bd95a73)
 - [To New Beginnings...](https://medium.com/@hansontram/to-new-beginnings-c7905adc9460)
 
